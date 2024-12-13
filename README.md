@@ -21,4 +21,7 @@ This project is made in `Netbeans IDE`. Also, this project uses the `MySQL datab
 - Now you are all set to go.🎉
 
 
+Note: To run this project as console application, check [console-isp](https://github.com/prachit082/Internet-Service-Provider/tree/console-isp) branch.
+
+
 
